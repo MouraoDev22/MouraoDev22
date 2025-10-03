@@ -1,7 +1,7 @@
 # Olá, me chamo Pedro! 
 ## Bem vindo ao meu perfil GitHub 👋
 
-<div class="tenor-gif-embed" data-postid="24530055" data-share-method="host" data-aspect-ratio="0.85625" data-width="100%"><a href="https://tenor.com/view/homem-aranha-tobey-maguire-bully-maguire-gif-24530055">Homem Aranha Tobey Maguire GIF</a>from <a href="https://tenor.com/search/homem+aranha-gifs">Homem Aranha GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+https://tenor.com/pt-BR/view/homem-aranha-tobey-maguire-bully-maguire-gif-24530055
 
 ## Ferramentas e Tecnologias
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
