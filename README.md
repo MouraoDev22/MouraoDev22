@@ -4,6 +4,8 @@
 ### . Iniciante em programação
 ### . Interessado por IA e desenvolvimento Front-end
 
+![tenor](https://github.com/user-attachments/assets/247f6530-6e28-40ea-9559-3e5e60174a15)
+
 ## Ferramentas e Tecnologias
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
 
