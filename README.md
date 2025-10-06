@@ -1,7 +1,7 @@
 ## Olá, me chamo Pedro! 
 
 ### . Bacharelando em Ciências Biológicas pela Universidade Estadual Vale do Acaraú (UEVA)
-### . Iniciante em programação ![tenor](https://github.com/user-attachments/assets/247f6530-6e28-40ea-9559-3e5e60174a15)
+### . Iniciante em programação                                                                                                                            ![tenor](https://github.com/user-attachments/assets/247f6530-6e28-40ea-9559-3e5e60174a15)
 ### . Interessado por IA e desenvolvimento Front-end
 
 ## Ferramentas e Tecnologias
