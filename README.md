@@ -4,7 +4,6 @@
 - Bacharelando em Ciências Biológicas pela Universidade Estadual Vale do Acaraú (UEVA)
 - Iniciante em programação                                                                                                                           
 - Interessado por IA e desenvolvimento Front-end
-![china-funny](https://github.com/user-attachments/assets/39eac7b0-2c64-41ed-8b20-e5372d23727b)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## FERRAMENTAS E TECNOLOGIAS: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
 
@@ -24,3 +23,5 @@
 <a href = "mailto:p3dr0sk0sk7160@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/pedro-victor-669017357" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
+
+![china-funny](https://github.com/user-attachments/assets/39eac7b0-2c64-41ed-8b20-e5372d23727b)
