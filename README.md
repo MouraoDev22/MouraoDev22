@@ -24,4 +24,4 @@
 <a href="https://www.linkedin.com/in/pedro-victor-669017357" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-![horror-scary](https://github.com/user-attachments/assets/afe0c7bd-0e75-4159-a448-3380eb5dfbde)
+![horror-scary](https://github.com/user-attachments/assets/afe0c7bd-0e75-4159-a448-3380eb5dfbde)![horror-scary](https://github.com/user-attachments/assets/afe0c7bd-0e75-4159-a448-3380eb5dfbde)![horror-scary](https://github.com/user-attachments/assets/afe0c7bd-0e75-4159-a448-3380eb5dfbde)
