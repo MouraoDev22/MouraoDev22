@@ -10,6 +10,7 @@
 ## ESTOU APRENDENDO: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/>
 
 ## GITHUB STATS
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?mouraodev22=anuraghazra&show_icons=true&theme=transparent)
 
 <div>
 <a href="https://github.com/MouraoDev22">
