@@ -1,3 +1,4 @@
+https://tenor.com/pt-BR/view/pennywise-dance-clown-it-welcome-to-derry-gif-5707377843980716912
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### 🩸 Olá, me chamo Pedro! 🩸
 
@@ -15,5 +16,3 @@
 <a href = "mailto:p3dr0sk0sk7160@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/pedro-victor-669017357" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
-
-![horror-scary](https://github.com/user-attachments/assets/afe0c7bd-0e75-4159-a448-3380eb5dfbde)               ![horror-scary](https://github.com/user-attachments/assets/afe0c7bd-0e75-4159-a448-3380eb5dfbde)
