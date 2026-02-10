@@ -1,6 +1,7 @@
 <img src="https://github.com/user-attachments/assets/0a0abf5b-b0bd-4013-a095-6d12495b0b7b" width="100%">
 ### 🩸 Olá, me chamo Pedro! 🩸
 
+<img width="100%" height="50%" src="https://github.com/user-attachments/assets/95aa7d81-99d6-4aeb-aaf8-548c8bf3af86"/>
 - Bacharelando em Ciências Biológicas pela Universidade Estadual Vale do Acaraú (UEVA)
 - Iniciante em programação                                                                                                                           
 - Interessado por IA e desenvolvimento Front-end
