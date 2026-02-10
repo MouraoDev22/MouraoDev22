@@ -1,4 +1,4 @@
-<img width="100%" height="30%" src="https://github.com/user-attachments/assets/95aa7d81-99d6-4aeb-aaf8-548c8bf3af86">
+<img width="100%" height="300" src="https://github.com/user-attachments/assets/95aa7d81-99d6-4aeb-aaf8-548c8bf3af86">
 
 ### 🩸 Olá, me chamo Pedro! 🩸
 - Bacharelando em Ciências Biológicas pela Universidade Estadual Vale do Acaraú (UEVA)
