@@ -5,7 +5,8 @@
 - Iniciante em programação                                                                                                                           
 - Interessado por IA e desenvolvimento Front-end
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-## FERRAMENTAS E TECNOLOGIAS: <wa-icon name="git-alt" family="brands" style="color: #af1919;"></wa-icon>
+## FERRAMENTAS E TECNOLOGIAS: 
+<img src="https://github.com/user-attachments/assets/25e89bf7-6085-4513-aedb-52cdf7964ccb">
 
 ## ESTOU APRENDENDO: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/>
 
