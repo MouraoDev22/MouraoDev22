@@ -4,13 +4,15 @@
 - Bacharelando em Ciências Biológicas pela Universidade Estadual Vale do Acaraú (UEVA)
 - Iniciante em programação                                                                                                                           
 - Interessado por IA e desenvolvimento Front-end
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-## FERRAMENTAS E TECNOLOGIAS: 
-<img width="10%" src="https://github.com/user-attachments/assets/25e89bf7-6085-4513-aedb-52cdf7964ccb">
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Technologies and Frameworks: 
+<img width="10%" src="https://github.com/user-attachments/assets/554d0e0d-1f14-47e8-8e3e-4ee286adc728">
+<img width="10%" src="https://github.com/user-attachments/assets/2b7221e8-8962-4d69-b7e1-b478c35d5f51">
+<img width="10%" src="https://github.com/user-attachments/assets/26359d0c-ffc4-4112-a84b-a6bd59bc7f08">
+<img width="10%" src="https://github.com/user-attachments/assets/cb84932e-221f-447d-8f53-99ad1924b64a">
+<img width="10%" src="https://github.com/user-attachments/assets/e4b8dbcd-be02-4c52-9c74-59ec222026a9">
 
-## ESTOU APRENDENDO: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/>
-
-## CONTATOS
+## Contact me
 
 <div>
 <a href = "mailto:p3dr0sk0sk7160@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
