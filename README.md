@@ -1,6 +1,6 @@
 <div align="center"> <img width="100%" height="240" src="https://github.com/user-attachments/assets/c941946d-dad2-41db-85a8-3e77c3a2ba1d" style="object-fit: cover; filter: brightness(55%);" /> </div>
 <h1 align="center">Pedro Victor Mourão</h1> <h3 align="center">Biology → Software</h3>
-
+<div align="center">
   <img src="https://img.shields.io/badge/biology%20student-white?style=for-the-badge&labelColor=%23af1919&color=%23af1919">
   <img src="https://img.shields.io/badge/frontend%20developer-white?style=for-the-badge&labelColor=%23af1919&color=%23af1919">
   <img src="https://img.shields.io/badge/learning%20javascript-white?style=for-the-badge&labelColor=%23af1919&color=%23af1919">
