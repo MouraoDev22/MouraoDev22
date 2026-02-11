@@ -12,7 +12,7 @@
 <br>
 
 <h2 align="center">About me</h2>
-<p align="center"> Biology student transitioning into software and bioinformatics </p>
+<p align="center"> Biology student transitioning into software </p>
 
 <br>
 
