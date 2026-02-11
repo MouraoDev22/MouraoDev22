@@ -1,4 +1,4 @@
-<img width="100%" height="300" src="https://github.com/user-attachments/assets/dae0ecfa-7272-47cb-9550-124f684ac49d" />
+<img width="100%" height="250" src="https://github.com/user-attachments/assets/dae0ecfa-7272-47cb-9550-124f684ac49d" />
 
 <h1 align="center">Who am I?</h1>
 
