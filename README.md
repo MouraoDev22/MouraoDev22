@@ -1,11 +1,11 @@
 <img width="100%" height="300" src="https://github.com/user-attachments/assets/95aa7d81-99d6-4aeb-aaf8-548c8bf3af86">
 
-<h1 align="center"> 🩸 Olá, me chamo Pedro! 🩸 </h1>
+### Olá, me chamo Pedro! 🩸
 - Bacharelando em Ciências Biológicas pela Universidade Estadual Vale do Acaraú (UEVA)
 - Iniciante em programação                                                                                                                           
 - Interessado por IA e desenvolvimento Front-end
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-## FERRAMENTAS E TECNOLOGIAS: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+## FERRAMENTAS E TECNOLOGIAS: <i class="fa-brands fa-git-alt" style="color: #af1919;"></i>
 
 ## ESTOU APRENDENDO: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/>
 
