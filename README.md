@@ -17,6 +17,6 @@
 <h2 align="center">Let's talk</h2>
 
 <div align="center">
-<a href = "mailto:p3dr0sk0sk7160@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/pedro-victor-669017357" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<a href = "mailto:p3dr0sk0sk7160@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/gmail-white?style=for-the-badge&logo=gmail&logoColor=%23FFFFFF&logoSize=auto&labelColor=%23AF1919&color=%23AF1919" target="_blank"></a>
+<a href="https://www.linkedin.com/in/pedro-victor-669017357" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/linkedin-white?style=for-the-badge&logoColor=%23FFFFFF&logoSize=auto&labelColor=%23AF1919&color=%23AF1919" target="_blank"></a>   
 </div>
