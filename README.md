@@ -33,7 +33,7 @@
 
 <h2 align="center">Projects</h2> <p align="center">Things I am building</p> <br>
 
-<div align="center"> <table> <tr> <td width="420"> <h3>Awt-Prompt</h3> <p>Node.js does not provide a built in prompt() like browsers. This tiny package gives you a clean, promise based solution that works perfectly with async/await.</p> <a href="https://github.com/MouraoDev22/awt-prompt"> <img src="https://img.shields.io/badge/View-Repository-AF1919?style=for-the-badge"></a></td> </tr> </table> </div>
+<div align="center"> <table> <tr> <td width="420"> <h3>Awt-Prompt</h3> <p>Node.js does not provide a built in prompt() like browsers. This tiny package gives you a clean, promise based solution that works perfectly with async/await.</p> <a href="https://github.com/MouraoDev22/awt-prompt"> <img src="https://img.shields.io/badge/View-Repository-AF1919?style=for-the-badge"></a></td> </tr> </table> <table> <tr> <td width="420"> <h3>Run from IT</h3> <p>An endless runner inspired by the classic Dino Run formula. You play as Pennywise sprinting through the frozen streets of Derry during a winter night, endlessly chasing a child who refuses to slow down.</p> <a href="https://github.com/MouraoDev22/run-from-it"> <img src="https://img.shields.io/badge/View-Repository-AF1919?style=for-the-badge"></a></td> </tr> </table> </div>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
