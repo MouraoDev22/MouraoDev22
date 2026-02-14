@@ -41,9 +41,9 @@
         <h4>E-commerce page:</h4> 
         <p>Projeto de e-commerce fictício desenvolvido durante o curso HTML e CSS: Responsividade com Mobile First da Alura.</p> 
         <img width="1920" height="1089" src="https://github.com/user-attachments/assets/bf0621a3-e1a1-4cbe-8497-dd8bb96134aa" />
-        <a href="https://github.com/MouraoDev22/alurabooks"> 
+        <a href="https://github.com/MouraoDev22/alurabooks" target="blank"> 
           <img src="https://img.shields.io/badge/View-Repository-AF1919?style=for-the-badge"></a> 
-        <a href="https://mouraodev22.github.io/alurabooks/"> 
+        <a href="https://mouraodev22.github.io/alurabooks/" target="blank"> 
           <img src="https://img.shields.io/badge/View-Page-AF1919?style=for-the-badge"></a> 
       </td> 
     </tr> 
@@ -55,7 +55,7 @@
         <h3>Awt-Prompt</h3> 
         <h4>Node Package:</h4> 
         <p>Node.js does not provide a built in prompt() like browsers. This tiny package gives you a clean, promise based solution that works perfectly with async/await.</p> 
-        <a href="https://github.com/MouraoDev22/awt-prompt"> 
+        <a href="https://github.com/MouraoDev22/awt-prompt" target="blank"> 
           <img src="https://img.shields.io/badge/View-Repository-AF1919?style=for-the-badge"></a>
       </td> 
     </tr> 
@@ -68,9 +68,9 @@
         <h4>Landing Page:</h4> 
         <p>Projeto de landing page criado durante o 7DaysOfCode de HTML e CSS da Alura.</p> 
         <img width="1920" height="1080" src="https://github.com/user-attachments/assets/0f173dba-30b1-40ed-9054-96398b426035" />
-        <a href="https://github.com/MouraoDev22/optimustech"> 
+        <a href="https://github.com/MouraoDev22/optimustech" target="blank"> 
           <img src="https://img.shields.io/badge/View-Repository-AF1919?style=for-the-badge"></a> 
-        <a href="https://mouraodev22.github.io/optimustech/"> 
+        <a href="https://mouraodev22.github.io/optimustech/" target="blank"> 
           <img src="https://img.shields.io/badge/View-Page-AF1919?style=for-the-badge"></a> 
       </td> 
     </tr> 
@@ -83,9 +83,9 @@
         <h4>Game:</h4> 
         <p>An endless runner inspired by the classic Dino Run formula. You play as Pennywise sprinting through the frozen streets of Derry during a winter night, endlessly chasing a child who refuses to            slow down.</p> 
         <img width="1920" height="1080" src="https://github.com/user-attachments/assets/9aba3962-de80-4095-8b8a-a69d5b3af882" />
-        <a href="https://github.com/MouraoDev22/run-from-it"> 
+        <a href="https://github.com/MouraoDev22/run-from-it" target="blank"> 
           <img src="https://img.shields.io/badge/View-Repository-AF1919?style=for-the-badge"></a> 
-        <a href="https://mouraodev22.github.io/run-from-it/"> 
+        <a href="https://mouraodev22.github.io/run-from-it/" target="blank"> 
           <img src="https://img.shields.io/badge/Play-AF1919?style=for-the-badge"></a> 
       </td> 
     </tr> 
