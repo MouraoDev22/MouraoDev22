@@ -3,7 +3,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/biology%20student-white?style=for-the-badge&labelColor=%23af1919&color=%23af1919">
   <img src="https://img.shields.io/badge/frontend%20developer-white?style=for-the-badge&labelColor=%23af1919&color=%23af1919">
-  <img src="https://img.shields.io/badge/learning%20javascript-white?style=for-the-badge&labelColor=%23af1919&color=%23af1919">
+  <img src="https://img.shields.io/badge/learning%20typescript-white?style=for-the-badge&labelColor=%23af1919&color=%23af1919">
   <img src="https://img.shields.io/badge/learning%20react-white?style=for-the-badge&labelColor=%23af1919&color=%23af1919">
 </div>
 
@@ -15,7 +15,7 @@
 
 <br>
 
-<p align="justify"> I am a <b>Biology</b> undergraduate focused on <b>molecular biology</b> and <b>genetics</b> who is transitioning into software development. I am currently learning <b>JavaScript</b>, <b>React</b>, and <b>frontend development</b> while exploring how programming can be applied to science and artificial intelligence. I am building projects to strengthen my technical skills, publish small tools, and start bioinformatics applications, with the goal of gaining internship opportunities and contributing to open source projects.</p>
+<p align="justify"> I am a <b>Biology</b> undergraduate focused on <b>molecular biology</b> and <b>genetics</b> who is transitioning into software development. I am currently learning <b>JTypeScript</b>, <b>React</b>, and <b>frontend development</b> while exploring how programming can be applied to science and artificial intelligence. I am building projects to strengthen my technical skills, publish small tools, and start bioinformatics applications, with the goal of gaining internship opportunities and contributing to open source projects.</p>
 
 <br>
 <br>
