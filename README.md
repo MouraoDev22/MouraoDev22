@@ -1,7 +1,7 @@
-<h1 align="center">Pedro Victor Mourão</h1> <h3 align="center">Biology → Software</h3>
+<h1 align="center">Pedro Victor Braga Mourão</h1> <h3 align="center">Biology → Software</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/biology%20student-white?style=for-the-badge&labelColor=%23af1919&color=%23af1919">
-  <img src="https://img.shields.io/badge/frontend%20developer-white?style=for-the-badge&labelColor=%23af1919&color=%23af1919">
+  <img src="https://img.shields.io/badge/fullstack%20developer-white?style=for-the-badge&labelColor=%23af1919&color=%23af1919">
   <img src="https://img.shields.io/badge/learning%20typescript-white?style=for-the-badge&labelColor=%23af1919&color=%23af1919">
   <img src="https://img.shields.io/badge/learning%20react-white?style=for-the-badge&labelColor=%23af1919&color=%23af1919">
 </div>
